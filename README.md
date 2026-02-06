@@ -21,10 +21,10 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://images2.imgbox.com/VRswJfzX" width="200" alt="Discover (Update Link)">
+        <img src="https://imgbox.com/VRswJfzX" width="200" alt="Discover Screen">
       </td>
       <td align="center">
-        <img src="https://images2.imgbox.com/fqPm4als" width="200" alt="Chats (Update Link)">
+        <img src="https://imgbox.com/fqPm4als" width="200" alt="Chat Screen">
       </td>
       <td align="center">
         <img src="https://images2.imgbox.com/2b/e7/UDqg9all_o.jpeg" width="200" alt="Profile">
