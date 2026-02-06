@@ -1,34 +1,69 @@
 # 🚀 Connect Campus
 
-**Connect Campus** is a feature-rich dating and social chatting application built with **Flutter**. It prioritizes meaningful connections by using a smart algorithm that matches users based on shared interests.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+**Connect Campus** is a next-gen **dating and social chatting application**. It prioritizes meaningful connections by using a smart algorithm that matches users based on shared interests and compatibility logic.
+
+---
+
+## 📸 App Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🔍 Discover</b></td>
+      <td align="center"><b>💬 Chats</b></td>
+      <td align="center"><b>👤 User Profile 1</b></td>
+      <td align="center"><b>👤 User Profile 2</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://imgbox.com/VRswJfzX" width="200" alt="Discover Screen">
+      </td>
+      <td align="center">
+        <img src="https://imgbox.com/fqPm4als" width="200" alt="Chat Interface">
+      </td>
+      <td align="center">
+        <img src="https://images2.imgbox.com/2b/e7/UDqg9all_o.jpeg" width="200" alt="Profile View 1">
+      </td>
+      <td align="center">
+        <img src="https://images2.imgbox.com/3d/dc/GIBMKs66_o.jpeg" width="200" alt="Profile View 2">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## ✨ Key Features
 
 ### 💘 Smart Matching System
-* **Interest-Based Priority:** The app analyzes user interests and calculates a **Match Percentage**.
-* **Smart Sorting:** Profiles with higher compatibility (higher match percentage) are prioritized and displayed first, ensuring you see the most relevant people immediately.
+* **🧩 Interest-Based Priority:** The app intelligently analyzes user interests to calculate a **Match Percentage**.
+* **📊 Dynamic Sorting:** Profiles with higher compatibility scores are displayed at the very top, ensuring you find your best match instantly.
 
 ### 💬 Advanced Chat & Media
-* **Unlimited Media:** Users can share as many photos as they want within the chat.
-* **Rich Profiles:** Support for profile pictures and custom **Banner Images** to express your personality.
+* **📸 Unlimited Photo Sharing:** Send as many photos as you want in personal chats.
+* **🖼️ Custom Banners:** Users can personalize their profiles with unique banner images and profile avatars.
 
-### ⚙️ Enhanced User Experience (UX)
-* **Haptic Feedback:** Interactive tactile feedback enabled throughout the app for a premium feel.
-* **Privacy & Control:** specialized buttons for Privacy settings, Notifications, and Profile Editing.
-* **Full Settings Suite:** Includes Logout functionality and a dedicated Help & Support section.
+### ⚙️ UX & Settings
+* **📳 Haptic Feedback:** Enabled throughout the app for a tactile, premium user experience.
+* **🔒 Privacy Suite:** Dedicated controls for **Privacy**, **Notifications**, and **Profile Editing**.
+* **🛠️ Support Tools:** Integrated **Help & Support** section with a seamless Logout flow.
 
-## 🛠️ Tech Stack
+---
 
-* **Framework:** [Flutter](https://flutter.dev/) (Dart)
-* **Backend Services:** Firebase (Auth/Database)
-* **AI Assistance:** Developed with the help of **Claude 4.5 Opus** for code optimization and logic generation.
-* **Platforms:** Android, iOS, Web, Windows, macOS, Linux.
+## 🛠️ Tech Stack & Tools
 
-## 📸 Screenshots
-
-| Match Screen | Chat Interface | Profile Settings |
-|:---:|:---:|:---:|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| Component | Technology |
+| :--- | :--- |
+| **Framework** | 💙 Flutter (Dart) |
+| **Backend** | 🔥 Firebase (Auth & Database) |
+| **AI Copilot** | 🤖 Claude 4.5 Opus (Logic & Optimization) |
+| **Architecture** | 📂 Clean Architecture / MVC |
 
 ## 🚀 Getting Started
 
@@ -48,4 +83,6 @@
     ```
 
 ---
-*Developed by **DarkCoder03***
+<p align="center">
+  Made with ❤️ by <b>DarkCoder03</b>
+</p>
