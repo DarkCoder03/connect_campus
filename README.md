@@ -3,8 +3,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Claude 4.5 Opus](https://img.shields.io/badge/AI-Claude_4.5_Opus-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **Connect Campus** is a next-gen **dating and social chatting application**. It prioritizes meaningful connections by using a smart algorithm that matches users based on shared interests and compatibility logic.
 
@@ -17,21 +16,21 @@
     <tr>
       <td align="center"><b>🔍 Discover</b></td>
       <td align="center"><b>💬 Chats</b></td>
-      <td align="center"><b>👤 User Profile 1</b></td>
-      <td align="center"><b>👤 User Profile 2</b></td>
+      <td align="center"><b>👤 User Profile</b></td>
+      <td align="center"><b>⚙️ Settings</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://imgbox.com/VRswJfzX" width="200" alt="Discover Screen">
+        <img src="https://imgbox.com/VRswJfzX" width="200" alt="Discover (Update Link)">
       </td>
       <td align="center">
-        <img src="https://imgbox.com/fqPm4als" width="200" alt="Chat Interface">
+        <img src="https://imgbox.com/fqPm4als" width="200" alt="Chats (Update Link)">
       </td>
       <td align="center">
-        <img src="https://images2.imgbox.com/2b/e7/UDqg9all_o.jpeg" width="200" alt="Profile View 1">
+        <img src="https://images2.imgbox.com/2b/e7/UDqg9all_o.jpeg" width="200" alt="Profile">
       </td>
       <td align="center">
-        <img src="https://images2.imgbox.com/3d/dc/GIBMKs66_o.jpeg" width="200" alt="Profile View 2">
+        <img src="https://images2.imgbox.com/3d/dc/GIBMKs66_o.jpeg" width="200" alt="Settings">
       </td>
     </tr>
   </table>
@@ -62,7 +61,7 @@
 | :--- | :--- |
 | **Framework** | 💙 Flutter (Dart) |
 | **Backend** | 🔥 Firebase (Auth & Database) |
-| **AI Copilot** | 🤖 Claude 4.5 Opus (Logic & Optimization) |
+| **AI Copilot** | 🧠 **Claude 4.5 Opus** (Logic & Optimization) |
 | **Architecture** | 📂 Clean Architecture / MVC |
 
 ## 🚀 Getting Started
